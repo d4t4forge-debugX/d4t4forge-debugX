@@ -1,19 +1,24 @@
-<h1 align="center">Hi, I'm d4t4forge 👋</h1>
-<h3 align="center">Data Science / AI Engineering — building things that measure themselves, not just work</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+%F0%9F%91%8B;Data+Scientist+%7C+AI%2FLLM+Engineer;I+build+systems+that+know+when+they're+wrong" alt="Typing SVG" />
+
+<p>
   <a href="https://www.linkedin.com/in/rohit-2003-shakya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rohitshakyakota@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
+  <img src="https://komarev.com/ghpvc/?username=d4t4forge-debugX&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </p>
+
+</div>
 
 ---
 
-### About me
+### 🧠 About me
 
 I build ML/AI systems end-to-end — from retrieval pipelines to tabular risk models — and I care more about *whether a system knows when it's wrong* than about squeezing out one more point of accuracy. Every project below ships with the design trade-offs written down, because "it works" isn't the same as "I can explain why."
 
-Currently targeting **Data Scientist / Data Analyst** roles, with **AI/LLM Engineering** as a strong second track.
+- 🎯 Targeting **Data Scientist / Data Analyst** roles, with **AI/LLM Engineering** as a strong second track
+- 🧵 Recurring theme across my work: **detect uncertainty or risk → flag it, never fail silently**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rohit-2003-shakya/) or by [email](mailto:rohitshakyakota@hotmail.com)
 
 ---
 
@@ -54,9 +59,11 @@ LoRA-fine-tuned classifier for prompt-injection detection, benchmarked against z
 </tr>
 </table>
 
-**Also:** [boss-research-agent](https://github.com/d4t4forge-debugX/boss-research-agent) — an MCP server exposing arXiv + PubMed search to terminal AI agents (Claude Code, Gemini CLI).
-
-> A thread running through all of these: **detect uncertainty or risk, then flag/escalate instead of failing silently** — whether that's a low-confidence segmentation, a suspicious prompt, or a hallucinating RAG answer.
+<details>
+<summary><b>🔧 Also built: boss-research-agent</b></summary>
+<br>
+An MCP server exposing arXiv + PubMed search to terminal AI agents (Claude Code, Gemini CLI) — lets any MCP-compatible agent pull real papers into its context.
+</details>
 
 ---
 
@@ -86,22 +93,14 @@ LoRA-fine-tuned classifier for prompt-injection detection, benchmarked against z
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4t4forge-debugX&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=d4t4forge-debugX&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d4t4forge-debugX/d4t4forge-debugX/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 <p align="center"><i>Open to Data Scientist / Data Analyst and AI Engineer roles — feel free to reach out.</i></p>
-
-
-<!--
-**d4t4forge-debugX/d4t4forge-debugX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
