@@ -90,14 +90,6 @@ An MCP server exposing arXiv + PubMed search to terminal AI agents (Claude Code,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d4t4forge-debugX&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4t4forge-debugX&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=d4t4forge-debugX&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
