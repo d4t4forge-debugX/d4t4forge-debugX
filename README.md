@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;I+build+systems+that+know+when+they're+wrong" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Rohit+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;I+build+systems+that+know+when+they're+wrong" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/rohit-2003-shakya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
