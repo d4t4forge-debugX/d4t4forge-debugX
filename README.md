@@ -85,8 +85,8 @@ An MCP server exposing arXiv + PubMed search to terminal AI agents (Claude Code,
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=d4t4forge-debugX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4t4forge-debugX&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-lemon-six-53.vercel.app/api?username=d4t4forge-debugX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-lemon-six-53.vercel.app/api/top-langs/?username=d4t4forge-debugX&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
